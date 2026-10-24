@@ -191,7 +191,7 @@ DeepSeek Harness 环境工具插件：env_probe 探明网络/代理/可写性/�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caoran1314&theme=tokyo-night&hide_border=true&area=true&area_color=8b9bff&line=8b9bff&point=c08cff&title_color=9aa6ff&custom_title=最近一年的提交动态" width="100%" />
+<img src="https://ghchart.rshah.org/6878ff/Caoran1314" width="100%" alt="Caoran1314 的贡献图" />
 
 </div>
 
