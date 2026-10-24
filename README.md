@@ -195,7 +195,10 @@ DeepSeek Harness 环境工具插件：env_probe 探明网络/代理/可写性/�
 
 <div align="center">
 
-<img width="430" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" /> &nbsp; <img width="326" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" />
+<table border="0"><tr>
+<td align="center" valign="top" width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" /></td>
+<td align="center" valign="top" width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" /></td>
+</tr></table>
 
 <br/>
 <br/>
@@ -221,7 +224,7 @@ DeepSeek Harness 环境工具插件：env_probe 探明网络/代理/可写性/�
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Caoran1314&label=%E8%AE%BF%E5%AE%A2&color=6878ff&style=flat-square" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Caoran1314.visitors&color=6878ff" alt="visitors" />
 
 <sub>⭐ 如果哪个项目帮到了你，点个 star 就是最大的鼓励</sub>
 
