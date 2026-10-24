@@ -1,6 +1,6 @@
-<img src="docs/banner.png" width="100%" alt="Caoran · NAS / Docker / 影视自动化" />
+<img src="docs/banner.png" width="100%" alt="Little.C · NAS / Docker / 影视自动化" />
 
-## Hi, I'm Caoran 👋
+## Hi, I'm Little.C 👋
 
 **自建折腾党 · NAS / Docker / 影视自动化 · 让家里的服务器替我干活**
 
