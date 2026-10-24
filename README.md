@@ -195,19 +195,19 @@ DeepSeek Harness 环境工具插件：env_probe 探明网络/代理/可写性/�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" />
+<img width="48.6%" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" /><img width="48.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" />
 
 <br/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caoran1314&theme=radical" width="100%" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caoran1314&theme=radical" />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caoran1314&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caoran1314&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caoran1314&theme=radical&utcOffset=8" />
+<br/>
+<br/>
+
+<img width="32.4%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caoran1314&theme=radical" /><img width="32.4%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caoran1314&theme=radical" /><img width="32.4%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caoran1314&theme=radical&utcOffset=8" />
 
 </div>
-
 ## 📈 贡献
 
 <div align="center">
