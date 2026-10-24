@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Caoran1314/media-suite/main/docs/icon.png" width="96" height="96" alt="logo" />
+<img src="docs/banner.png" width="100%" alt="Caoran · NAS / Docker / 影视自动化" />
 
 # Hi, I'm Caoran 👋
 
