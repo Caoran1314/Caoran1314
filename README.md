@@ -195,7 +195,7 @@ DeepSeek Harness 环境工具插件：env_probe 探明网络/代理/可写性/�
 
 <div align="center">
 
-<img width="48.6%" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" /><img width="48.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" />
+<img height="172" src="https://github-readme-stats.vercel.app/api?username=Caoran1314&show_icons=true&hide_border=true&theme=radical&locale=cn" /> &nbsp; <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caoran1314&layout=compact&hide_border=true&theme=radical&locale=cn" />
 
 <br/>
 <br/>
