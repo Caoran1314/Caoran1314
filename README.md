@@ -65,8 +65,8 @@
 </td>
 <td width="50%" valign="top">
 
-**[subs](https://github.com/Caoran1314/subs)**
-![stars](https://img.shields.io/github/stars/Caoran1314/subs?style=flat-square&color=6878ff&label=%E2%98%85)
+**[SubTally](https://github.com/Caoran1314/SubTally)**
+![stars](https://img.shields.io/github/stars/Caoran1314/SubTally?style=flat-square&color=6878ff&label=%E2%98%85)
 
 把订阅理清，把选择留给自己 —— 本地优先的订阅管理与续费决策：会员/AI 套餐、每月花费、分类构成
 
