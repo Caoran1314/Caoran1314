@@ -1,17 +1,12 @@
-<div align="center">
-
 <img src="docs/banner.png" width="100%" alt="Caoran · NAS / Docker / 影视自动化" />
 
-# Hi, I'm Caoran 👋
+## Hi, I'm Caoran 👋
 
 **自建折腾党 · NAS / Docker / 影视自动化 · 让家里的服务器替我干活**
 
-「把重复的事交给脚本，把选择留给自己。」
-
-</div>
+> 「把重复的事交给脚本，把选择留给自己。」
 
 ---
-
 ## 🧭 关于我
 
 - 🏠 家里跑着一台 **fnOS NAS**，71 个容器、几十个服务，能自建的绝不用第三方
